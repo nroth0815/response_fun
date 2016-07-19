@@ -6,7 +6,7 @@ import pynbody
 def run():
     print("hello world")
 
-    a = 6
+    a = 7
 
     print(a)
 
