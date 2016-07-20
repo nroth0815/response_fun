@@ -1,7 +1,7 @@
 response_fun
 =======
 
-[response_fun](https://github.com/pynbody/pynbody) doesn't really do anything right now.
+[response_fun](https://github.com/nroth0815/response_fun) doesn't really do anything right now.
 
 ### Getting started
 
